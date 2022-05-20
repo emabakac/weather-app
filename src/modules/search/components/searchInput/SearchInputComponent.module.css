@@ -1,0 +1,15 @@
+.input {
+  width: 25em;
+  height: 3em;
+  border: none;
+  border-radius: 5em;
+  padding-left: 1em;
+  margin-right: 1.5em;
+  backdrop-filter: blur(2em);
+  box-shadow: 0 25px 45px rgba(0, 0, 0, 0.1);
+  background: rgba(255, 255, 255, 0.2);
+}
+
+input:focus {
+  outline: none;
+}
